@@ -1,5 +1,5 @@
 #!/usr/bin/python
-r"""cowsay.py -
+r = """cowsay.py -
  __________________________________
 | Pick an animal and feed it text. |
  ----------------------------------
